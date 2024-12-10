@@ -5,18 +5,6 @@ The **CreditCardApproval** project aims to develop a robust model for predicting
 
 ---
 
-## Table of Contents
-1. [Cleaning Data](#1-cleaning-data)
-2. [Transforming Data](#2-transforming-data)
-3. [Univariate Analysis](#3-univariate-analysis)
-4. [Bivariate Analysis](#4-bivariate-analysis)
-5. [Correlation](#5-correlation)
-6. [Logistic Regression](#6-logistic-regression)
-7. [Model Tuning Using Grid Search](#7-model-tuning-using-grid-search)
-8. [Feature Selection](#8-feature-selection)
-
----
-
 ## 1. Cleaning Data
 
 - The dataset was downloaded from the UCI ML Repository and missing values (`?`) replaced by `NaN`.
